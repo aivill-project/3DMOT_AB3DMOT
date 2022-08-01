@@ -2,6 +2,8 @@
 This repository is to build 3D multi object tracking model for autonomouse drive cars.
 
 # AB3DMOT
+[KITTI dataset format](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/KITTI-format.txt)
+
 
 <b>3D Multi-Object Tracking: A Baseline and New Evaluation Metrics (IROS 2020, ECCVW 2020)</b>
 
